@@ -1,6 +1,9 @@
 # Naveen
 Data Science-Portfolio
 
+Email id: naveenmalli227@gmail.com
+Phone no: 203-997-2075
+
 Education Details
 
 Graduated from KKR & KSR Institute of Technology and Sciences (Affiliated to JNTUK) holding B. Tech Degree in Electrical & Electronics Engineering in the year 2019 aggregation of 68%.
