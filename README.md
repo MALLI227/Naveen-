@@ -9,4 +9,5 @@ The webcam will be doing face recognition while on the other hand Keras and Open
 They would be like Keras will examine whether the driver’s eye is closed or open (you will find the contrivance of Deep Neural Network techniques while using Keras); Open CV will scan the eye and face of the driver.
 As the driver falls asleep, these libraries and webcam come into action and force the triggering of the alarm for the sake of alerting the driver. 
 Such a project can reduce the increase in the number of road accidents and also ensures public safety round-the-clock.
+
 ![Flow-of-the-main-system](https://user-images.githubusercontent.com/99621999/153796699-e37beb70-55b6-46da-8c59-e99d08df166e.png)
