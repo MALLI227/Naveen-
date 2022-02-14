@@ -1,7 +1,8 @@
 # Naveen
 Data Science
 
-#[Implementing a Driver Fatigue Detection System] https://malli227.github.io/Naveen-/
+Project-1 : Implementing a Driver Fatigue Detection System https://malli227.github.io/Naveen-/
+
 Driver Fatigue or Drowsiness is one of the key contributions to road accidents. 
 As per the IEEE Survey, more than 30 percent of the accidents occurring day/ night are due to the frequent sleepiness drivers commit while traversing to longer or shorter routes. What if we find such a system that detects such fatigue anytime? This is possible with the real-time implementation of a driver drowsiness project which requires a webcam and some libraries of Python programming language (those libraries would be Keras, Open CV). 
 The webcam will be doing face recognition while on the other hand Keras and Open CV will also be offering valuable contributions. 
