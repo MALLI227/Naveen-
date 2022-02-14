@@ -29,7 +29,7 @@ Participated in the business activity getting the business requirement for the M
 
 Participated in the Current Account Activation for the student project, worked as developer for the back-end java coding to integrate with the Omni flow process which was provided by third party vendor.
 
-#**Project-1 : Implementing a Driver Fatigue Detection System **
+#**Project-1** : **Implementing a Driver Fatigue Detection System**
 
 Driver Fatigue or Drowsiness is one of the key contributions to road accidents. 
 
